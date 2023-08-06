@@ -1,4 +1,4 @@
-# HACK.ME Project to join MS-TEAMS meetings automatically
+# AutomateLogin to join MS-TEAMS meetings automatically
 
 ## Setup
 

@@ -30,7 +30,7 @@ URL = "https://teams.microsoft.com"
 # MS TEAMS Credentials
 CREDS = {
     'email': 'amanequalskul@outlook.com',
-    'passwd': 'st.josephstobsf'
+    'passwd': 'passwd'
 }
 
 
